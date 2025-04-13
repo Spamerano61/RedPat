@@ -1,4 +1,4 @@
-@RedPat_HostAddress = http://localhost:5264
+@RedPat_HostAddress = http://localhost:5183
 
 GET {{RedPat_HostAddress}}/weatherforecast/
 Accept: application/json
