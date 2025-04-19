@@ -1,9 +1,9 @@
 ﻿using MediatR;
 using RedPat.Db_Context;
-using RedPat.Doctors;
 using Microsoft.EntityFrameworkCore;
 using RedPat.Doctors.Queries.QueryHandler;
 using RedPat.Doctors.Queries;
+using RedPat.DTOS;
 
 namespace RedPat.Doctors.Handlers
 {

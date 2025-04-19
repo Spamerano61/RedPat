@@ -1,4 +1,4 @@
-﻿namespace RedPat.Doctors
+﻿namespace RedPat.DTOS
 {
     public class DoctorDTO
     {

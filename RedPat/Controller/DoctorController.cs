@@ -1,9 +1,9 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using RedPat.Doctors.Command;
-using RedPat.Doctors;
 using RedPat.Doctors.Queries.QueryHandler;
 using RedPat.Doctors.Queries;
+using RedPat.DTOS;
 
 namespace RedPat.Cotroller
 {

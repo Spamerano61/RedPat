@@ -1,4 +1,4 @@
-﻿namespace RedPat.Hospitals
+﻿namespace RedPat.DTOS
 {
     public class HospitalDTO
     {

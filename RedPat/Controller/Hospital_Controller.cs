@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using RedPat.Hospitals.Command;
 using RedPat.Hospitals.Queries;
-using RedPat.Hospitals;
+using RedPat.DTOS;
 
 namespace RedPat.Cotroller
 {

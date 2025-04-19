@@ -1,7 +1,5 @@
 ﻿using MediatR;
-using Microsoft.EntityFrameworkCore;
 using RedPat.Db_Context;
-using RedPat.Hospitals.Queries;
 using RedPat.Hospitals.Command;
 using RedPat.Module;
 

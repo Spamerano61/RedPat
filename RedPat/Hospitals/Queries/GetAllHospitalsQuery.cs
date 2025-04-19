@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using RedPat.DTOS;
 
 namespace RedPat.Hospitals.Queries
 {
